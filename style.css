@@ -2,6 +2,10 @@ body {
   background-color: #FFF1DB;
 }
 
+.image-circle {
+  border-radius: 50%;
+}
+
 .container {
   width: 700px;
   margin: 40px auto;
